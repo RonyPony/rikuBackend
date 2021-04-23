@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RikuBackend", "RikuBackend\RikuBackend.csproj", "{441846A6-EF9F-4957-B689-FE59CC867EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441846A6-EF9F-4957-B689-FE59CC867EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441846A6-EF9F-4957-B689-FE59CC867EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441846A6-EF9F-4957-B689-FE59CC867EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441846A6-EF9F-4957-B689-FE59CC867EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6126EFF-7FBC-41E3-A1F3-F2129FC88F40}
+	EndGlobalSection
+EndGlobal
